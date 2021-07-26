@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\USER\\my-first-hardhat\\contracts\\MyFirstContract.sol": {
+      "lastModificationDate": 1627267320103,
+      "contentHash": "5f44c123d61c929135f791c09f256261",
+      "sourceName": "contracts/MyFirstContract.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.6"
+      ],
+      "artifacts": [
+        "MyFirstContract"
+      ]
+    },
+    "C:\\Users\\USER\\my-first-hardhat\\contracts\\ERC-20.sol": {
+      "lastModificationDate": 1627267715992,
+      "contentHash": "8331567e09923833b76652d58635b1b3",
+      "sourceName": "contracts/ERC-20.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.6"
+      ],
+      "artifacts": [
+        "ERC20Basic",
+        "IERC20",
+        "SafeMath"
+      ]
+    }
+  }
+}
